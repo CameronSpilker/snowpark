@@ -93,7 +93,7 @@ scipy==1.10.1
 Send2Trash==1.8.2
 six==1.16.0
 sniffio==1.3.0
-snowflake-connector-python==3.0.3
+snowflake-connector-python==3.13.1
 snowflake-snowpark-python==1.4.0
 soupsieve==2.4.1
 stack-data==0.6.2
